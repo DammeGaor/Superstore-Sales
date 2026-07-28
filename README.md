@@ -29,6 +29,11 @@ Full breakdown of everything I found and how I decided to handle it is in [`docs
 ## Files
 
 ```
+data/
+├── clean/
+    ├── superstore_sales_cleaned.csv
+├── raw/
+    ├── superstore_sales_raw.csv
 sql/
 ├── 01_staging_setup.sql
 ├── 02_data_profiling.sql
