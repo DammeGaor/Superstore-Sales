@@ -43,8 +43,6 @@ docs/
 └── data_quality_findings.md
 ```
 
-Run them in order, each one builds on the last.
-
 ## Tools
 
 MySQL 8.0.
